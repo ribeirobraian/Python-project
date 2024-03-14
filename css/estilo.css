@@ -1,0 +1,67 @@
+#home {
+	background: linear-gradient(to bottom, #00008B, #0000CD);
+	color: black;
+}
+
+.cabeca{
+	background: #191970; 
+}
+
+.logo{
+	width: 90px;
+  	height: 90px;
+	border-radius: 50%;
+	overflow: hidden;
+	transition: 0.3s ease;
+}
+
+.logo:hover{
+	transform: rotateY(180deg);
+}
+
+.flt {
+  color: white;
+  font-weight: bold;
+}
+
+.flt:hover {
+  color: blue; 
+  text-decoration: underline; 
+}
+
+.btnico {
+  background-color: #191970; /* Define a cor de fundo do botão como azul piscina */
+  color: white; /* Define a cor do texto do botão como branco */
+  text-transform: uppercase; /* Transforma o texto do botão em maiúsculas */
+}
+
+.btnico:hover {
+  background-color: white; /* Define a cor de fundo do botão como branco ao passar o mouse */
+  color: blue; /* Define a cor do texto do botão como azul piscina ao passar o mouse */
+}
+
+.hvr:hover {
+  background-color: white;
+  color: blue; 
+
+.caixa{
+	padding: 60px 0;
+	border-bottom: 1px #4682B4 solid;
+}
+
+.blue-line{
+    height: 5px; 
+    background-color: blue; 
+    border-radius: 5px; 
+    margin-bottom: 20px;
+}
+
+footer p a{
+	margin: 5px 15px;
+}
+
+
+
+
+
+
